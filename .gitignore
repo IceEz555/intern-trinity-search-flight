@@ -2,9 +2,5 @@
 myenv/
 __pycache__/
 
-# Data output files
-*.csv
-*.json
-
 # VS Code specific
 .vscode/
